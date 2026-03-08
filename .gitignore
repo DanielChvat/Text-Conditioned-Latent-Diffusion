@@ -1,0 +1,10 @@
+checkpoints/
+.vscode/
+runs/
+vae_training_samples/
+*.pyc
+data/
+datasets_diffusion/
+datasets_sharded/
+*_captioned/
+*.pt
